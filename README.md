@@ -1,10 +1,9 @@
 
-# curve25519-dalek [![](https://img.shields.io/crates/v/curve25519-dalek.svg)](https://crates.io/crates/curve25519-dalek) [![](https://img.shields.io/badge/dynamic/json.svg?label=docs&uri=https%3A%2F%2Fcrates.io%2Fapi%2Fv1%2Fcrates%2Fcurve25519-dalek%2Fversions&query=%24.versions%5B0%5D.num&colorB=4F74A6)](https://doc.dalek.rs) [![](https://travis-ci.org/dalek-cryptography/curve25519-dalek.svg?branch=master)](https://travis-ci.org/dalek-cryptography/curve25519-dalek)
+# curve25519-balek 
 
-<img
- width="33%"
- align="right"
- src="https://doc.dalek.rs/assets/dalek-logo-clear.png"/>
+
+This is a fork of dalek done in company of some ernests 🐠.
+Balık means fish in turkish, in [french something completely different](https://en.wiktionary.org/wiki/balek).
 
 **A pure-Rust implementation of group operations on Ristretto and Curve25519.**
 
